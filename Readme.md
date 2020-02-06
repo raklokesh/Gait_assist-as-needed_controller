@@ -7,7 +7,7 @@ Used a double pendulum model with link and joint properties set to mimick the hu
 ## Deriving normative gait trajectories
 Obtained hip and knee joint trajectories for the swing phase of gait from the following gait database for healthy individuals. Processed the raw x-y-z data to obtain the hip angle and knee angle. The processed data is available in the csv file 'Gait desired Final'. 
 
-[Article link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5922232/)
+[Article and Database link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5922232/)
 
 ## Simulations of desired gait, undesired gait and assisted gait
 
