@@ -14,7 +14,7 @@ Obtained hip and knee joint trajectories for the swing phase of gait from the fo
 ### Desired gait
 An inverse dynamics controller was used to track the desired joint trajectories. An animation of the desire gait is shown in the following link.
 
-![](https://raw.githubusercontent.com/Rakshith6/gait-assist-as-needed-controller/master/desired%20gait%20animation.mp4)
+[Animation](https://raw.githubusercontent.com/Rakshith6/gait-assist-as-needed-controller/master/desired%20gait%20animation.mp4)
 
 ### Undesired gait
 Undesired gait was generated from the desired gait trajectories by adding a perturbing signal at each joint as implemented in the *obtain_trajectory_data.py* script. The inverse dynamic controller was used to track the undesired gait trajectories.
