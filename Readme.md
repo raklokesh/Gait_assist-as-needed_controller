@@ -5,7 +5,7 @@ Developed a assistive controller for the swing phase of gait. The novelty of the
 Used a double pendulum model with link and joint properties set to mimick the human lower extremity (thigh and shank segment; hip, knee and ankle joints). 
 
 ## Deriving normative gait trajectories
-Obtained hip and knee joint trajectories for the swing phase of gait from the following gait database for healthy individuals. Processed the raw x-y-z data to obtain the hip angle and knee angle. The processed data is available in the csv file 'Gait desired Final'. 
+Obtained hip and knee joint trajectories for the swing phase of gait from the following gait database for healthy individuals. Processed the raw x-y-z data to obtain the hip angle and knee angle. The processed data is available in the csv file [Gait desired Final] (https://github.com/Rakshith6/gait-assist-as-needed-controller/blob/master/Gait%20desired%20Final.csv)
 
 [Article and Database link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5922232/)
 
