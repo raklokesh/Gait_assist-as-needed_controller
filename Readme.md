@@ -24,7 +24,15 @@ The undesired gait was simulated as described previously. An assistive controlle
 
 ## Results
 
+### Ankle coordinates
+The coordinate system was located at the hip joint
+![](https://github.com/Rakshith6/gait-assist-as-needed-controller/blob/master/ankle_coordinate_plots.png)
 
+### Joint angles and angular velocities
+![](https://github.com/Rakshith6/gait-assist-as-needed-controller/blob/master/joint_states_plot.png)
+
+## Conclusion
+The assist as needed controller was able to correct large deviations of the ankle from the desired trajectory by applying torques at the joint level.
 
 
 
