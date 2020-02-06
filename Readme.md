@@ -17,7 +17,7 @@ An inverse dynamics controller was used to track the desired joint trajectories.
 [Animation](https://raw.githubusercontent.com/Rakshith6/gait-assist-as-needed-controller/master/desired%20gait%20animation.mp4)
 
 ### Undesired gait
-Undesired gait was generated from the desired gait trajectories by adding a perturbing signal at each joint as implemented in the *obtain_trajectory_data.py* script. The inverse dynamic controller was used to track the undesired gait trajectories.
+Undesired gait was generated from the desired gait trajectories by adding a perturbing signal at each joint as implemented in the [obtain_trajectory_data.py](https://github.com/Rakshith6/gait-assist-as-needed-controller/blob/master/obtain_trajectory_data.py) script. The inverse dynamic controller was used to track the undesired gait trajectories.
 
 ### Assisted gait
 The undesired gait was simulated as described previously. An assistive controller was used on top of the inverse dyn controller.
