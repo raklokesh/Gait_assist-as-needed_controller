@@ -10,7 +10,7 @@ Obtained hip and knee joint trajectories for the swing phase of gait from the fo
 [Article and Database link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5922232/)
 
 ## Simulations of desired gait, undesired gait and assisted gait
-
+All simulations were run using the [run simulation script](https://github.com/Rakshith6/gait-assist-as-needed-controller/blob/master/run_simulation.py)
 ### Desired gait
 An inverse dynamics controller was used to track the desired joint trajectories. An animation of the desire gait is shown in the following link.
 
